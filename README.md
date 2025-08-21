@@ -38,4 +38,17 @@ The main goal was to clean the dataset, handle missing values, and explore patte
 - Jupyter Notebook / Google Colab  
 
 ## How to Run
-1. Clone this repository  
+1. Clone this repository
+2. Upload the train.csv file in Google Colab or Jupyter Notebook  
+3. Run the notebook to view the data cleaning process, analysis, and visualizations  
+
+## Conclusion
+This project provided practical experience with:  
+- Cleaning messy real-world data  
+- Handling missing values and irrelevant features  
+- Performing exploratory data analysis  
+- Discovering clear survival patterns based on gender, class, and age  
+
+## Acknowledgments
+Dataset: Kaggle Titanic Challenge
+
